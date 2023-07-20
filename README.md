@@ -34,7 +34,7 @@ Also if you would like to send me a keyboard directly then please reach out to m
 
 Video Tutorial: [Install Kinto.sh for Linux in less than a minute](https://www.youtube.com/watch?v=kd4al45XD1g)
 
-[Linux Requirements](#What-does-Kinto-require)
+[Linux Requirements](#what-does-kinto-require)
 
 <img src="https://user-images.githubusercontent.com/10969616/97070698-179c4500-15a0-11eb-8064-c03aa7f4d4a5.png" width="75%">
 
@@ -220,7 +220,7 @@ Screenshots of how to configure Jump Desktop for macOS users accessing a Windows
 
 [What's different from other remappers?](#Whats-different)
 
-[What does Kinto require?](#What-does-Kinto-require)
+[What does Kinto require?](#what-does-kinto-require)
 
 [Shortcut Creation](#Shortcut-Creation)
 
